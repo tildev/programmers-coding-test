@@ -1,4 +1,4 @@
-import hash.level1.q42576.Solution;
+import hash.lv1.q42576.Solution;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

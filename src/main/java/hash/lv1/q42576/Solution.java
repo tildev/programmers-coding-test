@@ -1,4 +1,4 @@
-package hash.level1.q42576;
+package hash.lv1.q42576;
 
 import java.util.Arrays;
 
