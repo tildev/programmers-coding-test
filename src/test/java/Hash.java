@@ -2,6 +2,12 @@ import hash.lv1.q42576.Solution;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+/**
+ * Hash Test
+ *
+ * @author tildev
+ * date 2021-12-21
+ */
 public class Hash {
     @Test
     public void q42576(){
